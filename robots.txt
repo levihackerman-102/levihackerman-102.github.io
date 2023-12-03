@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://levihackerman-102.github.io/levihackerman-102.github.io/sitemap.xml
+Sitemap: https://levihackerman-102.github.io/sitemap.xml
